@@ -1,0 +1,45 @@
+.input{
+    padding:1rem 0 1rem 0;
+    width:24rem;
+    height:10rem;
+    background-color: aqua;
+    text-align: center;
+    margin:auto;
+    margin-top: 2rem;
+    justify-content: center;
+    border-radius: 1rem 1rem;
+}
+.input input{
+    height:2.5rem;
+    width:20rem;
+    font-size: 1.1rem;
+    padding:10px;
+    border-radius:50px 50px 50px 50px;
+    margin-right: 4px;
+    font-weight:bold;
+}
+.input button{
+    height: 3.5rem;
+    width: 6.5rem;
+    border-radius:50px 50px 50px 50px;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+.output{
+    width:20rem;
+    height:auto;
+    margin:auto;
+    margin-top: 2rem;
+    justify-content: center;
+    background-color:blueviolet;
+    border-radius:50px 50px 50px 50px;
+    padding:20px;
+    color: white;
+}
+#cityoutput{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 2rem;
+    font-weight: bolder;
+}
